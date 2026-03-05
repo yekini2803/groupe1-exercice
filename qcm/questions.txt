@@ -1,0 +1,105 @@
+PARTIE 2 - HTML/CSS : 20 QUESTIONS QCM (COMMUNES À TOUS LES GROUPES)
+20 Questions QCM sur HTML/CSS
+Chaque groupe doit répondre aux 20 questions et justifier chaque réponse.
+Questions HTML (1-10)
+1. Que signifie HTML ?
+•	A) Hyper Text Markup Language
+•	B) High Tech Modern Language
+•	C) Home Tool Management Language
+•	D) Hyper Transfer Markup Language
+2. Quelle balise est utilisée pour créer un lien hypertexte ?
+•	A) <link>
+•	B) <a>
+•	C) <href>
+•	D) <url>
+3. Quelle balise est utilisée pour insérer une image ?
+•	A) <img>
+•	B) <image>
+•	C) <picture>
+•	D) <src>
+4. Quelle est la balise pour le titre le plus important ?
+•	A) <heading>
+•	B) <h6>
+•	C) <h1>
+•	D) <head>
+5. Comment créer une liste à puces ?
+•	A) <ol>
+•	B) <ul>
+•	C) <li>
+•	D) <list>
+6. Quelle balise définit un paragraphe ?
+•	A) <par>
+•	B) <p>
+•	C) <paragraph>
+•	D) <pg>
+7. Comment insérer un commentaire en HTML ?
+•	A) // commentaire
+•	B) <!-- commentaire -->
+•	C) /* commentaire */
+•	D) # commentaire
+8. Quelle balise est utilisée pour créer un tableau ?
+•	A) <tab>
+•	B) <table>
+•	C) <tr>
+•	D) <td>
+9. Quelle balise permet de créer un formulaire ?
+•	A) <form>
+•	B) <input>
+•	C) <field>
+•	D) <button>
+10. Quelle balise est utilisée pour le doctype HTML5 ?
+•	A) <!DOCTYPE HTML5>
+•	B) <!DOCTYPE html>
+•	C) <DOCTYPE html>
+•	D) <!DOCTYPE>
+Questions CSS (11-20)
+11. Que signifie CSS ?
+•	A) Computer Style Sheets
+•	B) Creative Style System
+•	C) Cascading Style Sheets
+•	D) Colorful Style Sheets
+12. Comment appliquer une couleur de fond rouge ?
+•	A) background-color: red;
+•	B) color: red;
+•	C) bgcolor: red;
+•	D) background: red; (plusieurs réponses possibles)
+13. Comment sélectionner un élément avec l'id "monId" ?
+•	A) .monId
+•	B) #monId
+•	C) monId
+•	D) *monId
+14. Comment sélectionner une classe "maClasse" ?
+•	A) .maClasse
+•	B) #maClasse
+•	C) maClasse
+•	D) *maClasse
+15. Quelle propriété change la taille du texte ?
+•	A) text-size
+•	B) font-size
+•	C) size
+•	D) text-style
+16. Comment centrer un texte horizontalement ?
+•	A) align: center;
+•	B) text-align: center;
+•	C) center: true;
+•	D) vertical-align: center;
+17. Quelle propriété ajoute de l'espace entre les éléments ?
+•	A) space
+•	B) padding
+•	C) margin
+•	D) spacing (plusieurs réponses possibles)
+18. Comment rendre un texte en gras ?
+•	A) font-weight: bold;
+•	B) text-style: bold;
+•	C) bold: true;
+•	D) font: bold;
+19. Quelle propriété définit la largeur d'un élément ?
+•	A) width
+•	B) height
+•	C) size
+•	D) length
+20. Comment créer une bordure arrondie ?
+•	A) border-radius
+•	B) rounded-border
+•	C) corner-radius
+•	D) border-circle

@@ -1,0 +1,21 @@
+PARTIE 2 (suite) - EXERCICES PRATIQUES HTML/CSS
+GROUPE 1 - Page de Profil Personnel
+Contexte : Créer une page de profil pour un développeur freelance.
+Consignes :
+•	Une carte de profil avec :
+o	Photo de profil (placeholder)
+o	Nom, prénom, profession
+o	Bio (5-6 lignes)
+•	Liste des compétences avec barres de progression (HTML, CSS, JavaScript, Python)
+•	Section "Projets récents" avec 3 projets (image, titre, description)
+•	Formulaire de contact (nom, email, message, bouton envoyer)
+•	Pied de page avec liens vers réseaux sociaux
+Contraintes :
+•	Utiliser Flexbox pour la mise en page
+•	Design responsive (mobile, tablette, desktop)
+•	Animations au survol des cartes projets
+Répartition :
+Membre	Tâche
+Membre 1	Structure HTML et carte de profil
+Membre 2	Barres de compétences et projets
+Membre 3	Formulaire, footer et responsive

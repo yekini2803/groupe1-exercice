@@ -1,0 +1,17 @@
+GROUPE 1 - Calculateur de Budget Vacances
+
+Contexte : Une famille prépare ses vacances et veut savoir combien elle peut dépenser par jour.
+Consignes :
+•	L'utilisateur saisit son budget total pour les vacances
+•	Il saisit le nombre de jours
+•	Il saisit le coût de l'hôtel par nuit
+•	Chaque jour, il dépense pour la nourriture (montant fixe à saisir)
+•	Afficher :
+	-Le budget restant après chaque jour
+	-Le nombre de jours où il peut encore tenir
+	-Un message d'alerte si le budget devient inférieur à 100€
+Répartition :
+Membre	    Tâche
+Membre 1	Structure principale et boucle journalière
+Membre 2	Calculs des dépenses et budget restant
+Membre 3	Messages d'alerte et cas particuliers
