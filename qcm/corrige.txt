@@ -1,0 +1,30 @@
+PARTIE 2 - HTML/CSS : 20 QUESTIONS QCM (COMMUNES À TOUS LES GROUPES)
+20 Questions QCM sur HTML/CSS
+Chaque groupe doit répondre aux 20 questions et justifier chaque réponse.
+Questions HTML (1-10)
+Reponses :
+1) A- HTML signifie Hyper Text Markup Language,  c'est langage de balisage crée par Tim-berner lee 
+2) B- La balise utilisée pour créer un lien hypertexte est <a>
+3) A- La balise  utilisée pour insérer une image est : <img>
+4) C- la balise pour le titre le plus important est : <h1>
+5) B- On crée une liste à puces à l'aide la balise : <ul>
+6) B- La balise définit un paragraphe : <p>
+7) B- On insére un commentaire en HTML : <!-- commentaire -->
+8) B- La balise utilisée pour créer un tableau est : <table>
+9) A- La balise qui permet de créer un formulaire est : <form>
+10)B- La balise qui est utilisée pour le doctype HTML5 est : <!DOCTYPE html>
+
+Questions CSS (11-20)
+Reponses :
+11)C- CSS signifie : Cascading Style Sheets
+12)A- On applique une couleur de fond rouge en ecrivant : background-color: red;
+    propriété: valeur;
+13)B- Pour sélectionner un élément avec l'id "monId" on écrit : #monId
+14)A- Pour sélectionner une classe "maClasse" on écrit : .maClasse
+15)B- La propriété qui change la taille du texte est : font-size
+16)B- On centre un texte horizontalement à l'aide de la propriété : text-align: center;
+17)D- La propriété utilisé pour ajouter de l'espace entre les  éléments est : Spacing
+18)A- Pour rendre un texte en gras, on utilise : font-weight: bold;
+19)A- Pour definir la largeur d'un élément on utilise la propriété : width
+20)C- Pour créer une bordure arrondie on utilise la propriété : border-radius
+
