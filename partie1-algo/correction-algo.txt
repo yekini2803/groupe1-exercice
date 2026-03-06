@@ -1,0 +1,43 @@
+programme calcul_budget
+var budget,jours,coutHotel : entier
+   depensJournalier, restBudget : entier
+   depensNourriture : entier
+
+debut
+afficher("Entrez votre budget total pour les vacances !")
+à_la_ligne
+saisir(budget)
+à_la_ligne
+afficher("Entrez en jours la durée de votre séjour !")
+à_la_ligne
+saisir(jours)
+à_la_ligne
+afficher("Entrez le cout de l'hotel par nuit !")
+à_la_ligne
+saisir(coutHotel)
+à_la_ligne
+afficher("Entrez les depenses pour la nourriture de ce jour !")
+à_la_ligne
+saisir(depensNourriture)
+à_la_ligne
+restBudget:=0
+tant que (restBudget > 100 ) faire
+   jours := 0
+   jours := jours + 1
+   depensJournalier:=0
+   depensJournalier := ((coutHotel * jours ) + (depensNourriture*jours) )
+   à_la_ligne
+   afficher("Votre depense à ce ",jours ," ème ")
+   afficher("jour est :",depensJournalier)
+   à_la_ligne
+   
+   restBudget := budget - depensJournalier
+   à_la_ligne
+   afficher("Le budget restant à ce jour est :", restBudget)
+ftant que
+    si (restBudget < 100) alors 
+   afficher("Ils ne vous restera que :" ,restBudget,"euro", de votre budget !")
+  fin si
+
+ 
+fin
