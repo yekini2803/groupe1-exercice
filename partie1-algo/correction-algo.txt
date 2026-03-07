@@ -22,7 +22,6 @@ saisir(depensNourriture)
 à_la_ligne
 restBudget:=0
 tant que (restBudget > 100 ) faire
-   jours := 0
    jours := jours + 1
    depensJournalier:=0
    depensJournalier := ((coutHotel * jours ) + (depensNourriture*jours) )
